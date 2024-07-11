@@ -305,3 +305,26 @@ The data was then split into train and test sets.
 ### Fine-Tuning
 - Further fine-tuning of the models enhanced their performance.
 - Positively impacted both legitimate and fraudulent transactions.
+
+Here's a formatted version for your README:
+
+
+
+## Next Steps
+
+Despite initially using a limited set of models, my next steps will involve:
+
+1. **Implementing AdaBoost and Random Forest Models**:
+   - Integrate these models into the current workflow to enhance predictive performance.
+
+2. **Fine-Tuning Existing Models**:
+   - Focus on refining the parameters and structure of the existing models to improve their accuracy.
+
+3. **Hyperparameter Tuning**:
+   - Conduct extensive hyperparameter tuning to optimize the performance of all models.
+
+4. **Improving Predictive Capabilities**:
+   - Aim to significantly enhance the accuracy and robustness of our predictive models.
+
+5. **Real-World Application in Fraud Detection**:
+   - Use the improved models to learn more about fraud detection and apply these insights in real-world scenarios.
